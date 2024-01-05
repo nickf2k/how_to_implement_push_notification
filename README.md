@@ -1,6 +1,6 @@
 # how_to_implement_push_notification
-
-A new Flutter project.
+Solution code for this blog:
+https://opaque-foundation-db0.notion.site/Flutter-How-to-implement-Push-Notification-Firebase-Cloud-Messaging-FCM-2ff47966327841d29f5a2e07d4342c9c
 
 ## Getting Started
 
